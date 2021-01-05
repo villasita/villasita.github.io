@@ -78,7 +78,7 @@ img {
  grid-row:2/4;
  grid-column:3/4;
  border-style:solid;
- border-color:rgb(241, 216, 216);
+ border-color: white;
  border-width:large;
  z-index: 1;
 }
