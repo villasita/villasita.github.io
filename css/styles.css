@@ -13,7 +13,7 @@ body{
 }
 
 header {
- background-color: #c72707;
+ background-color: #470e03;
  padding: 8px;
  border-radius: 8px;
  position: fixed;
@@ -26,7 +26,7 @@ header {
 h1 {
  font-size: 2.5em;
  text-align: center;
- color: #080808;
+ color: #eb3939;
 }
 
 .lessons{
@@ -50,7 +50,7 @@ h2 {
 ul {
 list-style: none;
  text-align: left;
- color: #000000;
+ color: #080000;
  grid-row:4/5;
  grid-column:1/2;
  align-self:start;
@@ -58,13 +58,13 @@ list-style: none;
 }
 
 footer {
- background-color:#F3D4CE;
+ background-color: #470e03;
  border-radius: 1px;
  position: fixed;
  bottom: 0;
  left: 0;
  width: 99%;
- color: #3d0808;
+ color: #080000;
  padding: 8px;
 }
 
@@ -78,7 +78,7 @@ img {
  grid-row:2/4;
  grid-column:3/4;
  border-style:solid;
- border-color:white;
+ border-color:rgb(241, 216, 216);
  border-width:large;
  z-index: 1;
 }
