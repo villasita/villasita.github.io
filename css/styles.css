@@ -15,7 +15,7 @@ body{
 header {
  background-color: #470e03;
  padding: 5px;
- border-radius: 7px;
+ border-radius: 8px;
  position: fixed;
  top: 0;
  left: 0;
@@ -76,7 +76,7 @@ footer {
 
 img {
  grid-row:2/4;
- grid-column:3/4;
+ grid-column:3/5;
  border-style:solid;
  border-color: white;
  border-width:large;
@@ -130,7 +130,7 @@ img {
     }
 
     img, .lessons{
-      margin-top:5px;
+      margin-top:3px;
     }
     
   }
