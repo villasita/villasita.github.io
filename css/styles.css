@@ -2,7 +2,7 @@
                     background-color: #F3D4CE;
                 }
                 
-                .main {
+                main {
                     background-color: #f2f7f8;
                     font-family: 'PT Sans', sans-serif;
                     max-width: 960px;
@@ -44,6 +44,11 @@
                     text-align: center;
                     color: #faf8f8;
                     padding: 8px;
+                }
+                
+                .lessons {
+                    max-width: 960px;
+                    margin: 0 auto;
                 }
                 
                 .footerInfo {
