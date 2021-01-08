@@ -3,4 +3,4 @@ let year = d.getFullYear();
 document.getElementById("year").textContent = year;
 
 let modified = document.lastModified;
-document.getElementById("modified").textContent = modified;
+document.getElementById("updated").textContent = modified;
