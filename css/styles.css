@@ -81,3 +81,13 @@
                     font-size: 11px;
                     display: flex;
                 }
+                
+                a {
+                    text-decoration: none;
+                }
+                
+                li a:hover {
+                    background-color: #F3D4CE;
+                    box-shadow: 3px 3px 3px #999;
+                    border-radius: 5%;
+                }
