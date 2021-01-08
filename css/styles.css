@@ -14,10 +14,6 @@ header {
     background-color: #470e03;
     padding: 5px;
     border-radius: 8px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 99%;
     font-family: 'Anton', sans-serif;
 }
 
