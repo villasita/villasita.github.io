@@ -14,7 +14,7 @@ main {
 }
 
 header {
-    background-color: #db68e6;
+    background-color: #e987f1;
     padding: 12px;
     border-radius: 5px;
     font-family: 'Ultra', serif;
@@ -40,10 +40,11 @@ ul {
 }
 
 footer {
-    background-color: #db68e6;
+    background-color: #e987f1;
     border-radius: 5px;
     text-align: center;
     color: #faf8f8;
+    padding: 5px;
 }
 
 img {
@@ -63,7 +64,7 @@ a {
 }
 
 li a:hover {
-    background-color: #c9553e;
+    background-color: #e987f1;
     box-shadow: 3px 3px 3px #999;
     border-radius: 5%;
 }
