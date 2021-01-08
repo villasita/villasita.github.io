@@ -6,15 +6,15 @@
                                                    background-color: #f2f7f8;
                                                    display: block;
                                                    font-family: 'PT Sans', sans-serif;
-                                                   margin: 0 auto;
                                                }
                                                
                                                #content {
                                                    max-width: 960px;
+                                                   margin: 0 auto;
                                                }
                                                
                                                header {
-                                                   background-color: #bf1ace;
+                                                   background-color: #db68e6;
                                                    padding: 5px;
                                                    border-radius: 5px;
                                                    font-family: 'Anton', sans-serif;
@@ -27,12 +27,10 @@
                                                }
                                                
                                                h2 {
-                                                   font-size: 2em;
                                                    text-align: left;
                                                    border-bottom: 3px double;
                                                    margin: 0;
                                                    padding: 0;
-                                                   height: 50px;
                                                }
                                                
                                                ul {
@@ -42,18 +40,16 @@
                                                }
                                                
                                                footer {
-                                                   background-color: #bf1ace;
+                                                   background-color: #db68e6;
                                                    border-radius: 5px;
                                                    text-align: center;
                                                    color: #faf8f8;
-                                                   padding: 8px;
                                                }
                                                
                                                img {
                                                    border-style: solid;
                                                    border-color: white;
                                                    float: right;
-                                                   z-index: 1;
                                                }
                                                
                                                .lastModified {
