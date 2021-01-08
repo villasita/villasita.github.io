@@ -14,9 +14,9 @@
                                                }
                                                
                                                header {
-                                                   background-color: #470e03;
+                                                   background-color: #bf1ace;
                                                    padding: 5px;
-                                                   border-radius: 8px;
+                                                   border-radius: 5px;
                                                    font-family: 'Anton', sans-serif;
                                                }
                                                
@@ -42,8 +42,8 @@
                                                }
                                                
                                                footer {
-                                                   background-color: #470e03;
-                                                   border-radius: 7px;
+                                                   background-color: #bf1ace;
+                                                   border-radius: 5px;
                                                    text-align: center;
                                                    color: #faf8f8;
                                                    padding: 8px;
@@ -70,8 +70,4 @@
                                                    background-color: #c9553e;
                                                    box-shadow: 3px 3px 3px #999;
                                                    border-radius: 5%;
-                                               }
-                                               
-                                               .byulink {
-                                                   color: white;
                                                }
