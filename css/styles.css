@@ -46,20 +46,9 @@
                     padding: 8px;
                 }
                 
-                .lessons {
-                    max-width: 960px;
-                    margin: 0 auto;
-                }
-                
-                .footerInfo {
-                    display: flex;
-                    align-content: center;
-                }
-                
                 img {
                     border-style: solid;
                     border-color: white;
-                    border-width: thick;
                     float: right;
                     z-index: 1;
                 }
@@ -81,7 +70,7 @@
                 }
                 
                 li a:hover {
-                    background-color: #F3D4CE;
+                    background-color: #691909;
                     box-shadow: 3px 3px 3px #999;
                     border-radius: 5%;
                 }
