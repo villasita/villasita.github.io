@@ -1,79 +1,80 @@
-                body {
-                    background-color: #F3D4CE;
-                }
-                
-                main {
-                    background-color: #f2f7f8;
-                    display: block;
-                    font-family: 'PT Sans', sans-serif;
-                    margin: 0 auto;
-                    border: solid black;
-                }
-                
-                .lessons {}
-                
-                max-width: 960px;
-                header {
-                    background-color: #470e03;
-                    padding: 5px;
-                    border-radius: 8px;
-                    font-family: 'Anton', sans-serif;
-                }
-                
-                h1 {
-                    font-family: 'PT Sans', sans-serif;
-                    text-align: center;
-                    color: #faf8f8;
-                }
-                
-                h2 {
-                    font-size: 2em;
-                    text-align: left;
-                    border-bottom: 3px double;
-                    margin: 0;
-                    padding: 0;
-                    height: 50px;
-                }
-                
-                ul {
-                    list-style: none;
-                    color: #080000;
-                    font-size: 20px;
-                }
-                
-                footer {
-                    background-color: #470e03;
-                    border-radius: 7px;
-                    text-align: center;
-                    color: #faf8f8;
-                    padding: 8px;
-                }
-                
-                img {
-                    border-style: solid;
-                    border-color: white;
-                    float: right;
-                    z-index: 1;
-                }
-                
-                #byuLink,
-                #year {
-                    align-self: center;
-                    color: #faf8f8;
-                }
-                
-                .lastModified {
-                    color: rgb(201, 250, 23);
-                    font-size: 11px;
-                    display: flex;
-                }
-                
-                a {
-                    text-decoration: none;
-                }
-                
-                li a:hover {
-                    background-color: #691909;
-                    box-shadow: 3px 3px 3px #999;
-                    border-radius: 5%;
-                }
+body {
+    background-color: #F3D4CE;
+}
+
+main {
+    background-color: #f2f7f8;
+    display: block;
+    font-family: 'PT Sans', sans-serif;
+    margin: 0 auto;
+    border: solid black;
+}
+
+#content {
+    max-width: 960px;
+}
+
+header {
+    background-color: #470e03;
+    padding: 5px;
+    border-radius: 8px;
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    color: #faf8f8;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: left;
+    border-bottom: 3px double;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+}
+
+ul {
+    list-style: none;
+    color: #080000;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #470e03;
+    border-radius: 7px;
+    text-align: center;
+    color: #faf8f8;
+    padding: 8px;
+}
+
+img {
+    border-style: solid;
+    border-color: white;
+    float: right;
+    z-index: 1;
+}
+
+#byuLink,
+#year {
+    align-self: center;
+    color: #faf8f8;
+}
+
+.lastModified {
+    color: rgb(201, 250, 23);
+    font-size: 11px;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #691909;
+    box-shadow: 3px 3px 3px #999;
+    border-radius: 5%;
+}
