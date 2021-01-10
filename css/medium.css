@@ -19,7 +19,6 @@ footer {
 
 header,
 img {
-    border-style: solid;
     float: right;
     box-shadow: 0px 8px 8px gray;
 }
