@@ -1,81 +1,85 @@
-body {
-    background-color: #F3D4CE;
-    margin: 1rem auto;
-}
-
-main {
-    background-color: #F3D4CE;
-    display: block;
-    font-family: 'Public Sans', sans-serif;
-}
-
-#content {
-    max-width: 960px;
-    margin: 0 auto;
-}
-
-header {
-    background-color: #e987f1;
-    margin: 2rem auto;
-    padding: 12px;
-    border-radius: 15px;
-    font-family: 'Ultra', serif;
-}
-
-h1 {
-    font-family: 'PT Sans', sans-serif;
-    text-align: center;
-    color: #faf8f8;
-}
-
-h2 {
-    text-align: left;
-    border-bottom: 3px double;
-    margin: 0;
-    padding: 0;
-}
-
-ul {
-    color: #080000;
-    font-size: 20px;
-}
-
-footer {
-    background-color: #e987f1;
-    margin: 2rem auto;
-    border-radius: 15px;
-    text-align: center;
-    color: #faf8f8;
-    padding: 5px;
-    font-family: 'Public Sans', sans-serif;
-}
-
-img {
-    border-style: solid;
-    float: right;
-    border: 3px solid #EDBFB7;
-    padding: 4px;
-    box-shadow: 0px 8px 8px gray;
-}
-
-.lastModified {
-    color: rgb(201, 250, 23);
-    font-size: 12px;
-    text-align: center;
-}
-
-a {
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #e987f1;
-    box-shadow: 3px 3px 3px #999;
-    border-radius: 5%;
-}
-
-@media screen and (max-width: 550px) {
-    #content {
-        display: block;
-    }
-}
+                            body {
+                                background-color: #F3D4CE;
+                                margin: 1rem auto;
+                            }
+                            
+                            main {
+                                background-color: #F3D4CE;
+                                display: block;
+                                font-family: 'Public Sans', sans-serif;
+                            }
+                            
+                            #content {
+                                max-width: 960px;
+                                margin: 0 auto;
+                            }
+                            
+                            header {
+                                background-color: #e987f1;
+                                margin: 2rem auto;
+                                padding: 12px;
+                                border-radius: 15px;
+                                font-family: 'Ultra', serif;
+                            }
+                            
+                            h1 {
+                                font-family: 'PT Sans', sans-serif;
+                                text-align: center;
+                                color: #faf8f8;
+                            }
+                            
+                            h2 {
+                                text-align: left;
+                                border-bottom: 3px double;
+                                margin: 0;
+                                padding: 0;
+                            }
+                            
+                            ul {
+                                color: #080000;
+                                font-size: 20px;
+                            }
+                            
+                            footer {
+                                background-color: #e987f1;
+                                margin: 2rem auto;
+                                border-radius: 15px;
+                                text-align: center;
+                                color: #faf8f8;
+                                padding: 5px;
+                                font-family: 'Public Sans', sans-serif;
+                            }
+                            
+                            img {
+                                border-style: solid;
+                                float: right;
+                                border: 3px solid #EDBFB7;
+                                padding: 4px;
+                                box-shadow: 0px 8px 8px gray;
+                            }
+                            
+                            .lastModified {
+                                color: rgb(201, 250, 23);
+                                font-size: 12px;
+                                text-align: center;
+                            }
+                            
+                            a {
+                                text-decoration: none;
+                            }
+                            
+                            li a:hover {
+                                background-color: #e987f1;
+                                box-shadow: 3px 3px 3px #999;
+                                border-radius: 5%;
+                            }
+                            
+                            @media screen and (max-width: 550px) {
+                                #content {
+                                    display: block;
+                                }
+                            }
+                            
+                            footer a {
+                                color: #faf8f8;
+                            }
