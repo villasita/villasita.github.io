@@ -19,7 +19,6 @@
                                 margin: 2rem auto;
                                 padding: 12px;
                                 font-family: 'Ultra', serif;
-                                font-size: 2.5em;
                                 text-align: center;
                             }
                             
@@ -32,8 +31,6 @@
                             h2 {
                                 text-align: left;
                                 border-bottom: 3px double;
-                                margin: 0;
-                                padding: 0;
                                 font-size: 1em;
                             }
                             
@@ -54,7 +51,6 @@
                             img {
                                 border-style: solid;
                                 border: 3px solid #EDBFB7;
-                                box-shadow: 0px 8px 8px gray;
                             }
                             
                             .lastModified {
