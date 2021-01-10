@@ -14,16 +14,19 @@
                                 margin: 0 auto;
                             }
                             
-                            header,
-                            footer {
+                            header {
                                 background-color: #e987f1;
                                 margin: 2rem auto;
                                 padding: 12px;
+                                border-radius: 15px;
                                 font-family: 'Ultra', serif;
-                                text-align: center;
                             }
                             
                             footer {
+                                background-color: #e987f1;
+                                margin: 2rem auto;
+                                border-radius: 15px;
+                                text-align: center;
                                 color: #faf8f8;
                                 padding: 5px;
                                 font-family: 'Public Sans', sans-serif;
@@ -51,8 +54,10 @@
                             
                             img {
                                 border-style: solid;
-                                width: 300px;
-                                height: auto;
+                                float: right;
+                                border: 3px solid #EDBFB7;
+                                padding: 4px;
+                                box-shadow: 0px 8px 8px gray;
                             }
                             
                             .lastModified {
