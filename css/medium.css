@@ -1,17 +1,15 @@
-        @media screen and (min-width: 32.5em) {
-            #content {
-                display: block;
-            }
-        }
-        
-        header,
-        footer {
-            border-radius: 15px;
-        }
-        
-        header img {
-            border-style: solid;
-            float: right;
-            border: 3px solid #EDBFB7;
-            box-shadow: 0px 8px 8px gray;
-        }
+@media screen and (min-width: 32.5em) {
+    h1 {
+        font-size: 30px;
+    }
+    header,
+    footer {
+        border-radius: 15px;
+    }
+    img {
+        border-style: solid;
+        float: right;
+        border: 3px solid #EDBFB7;
+        box-shadow: 0px 8px 8px gray;
+    }
+}

@@ -1,12 +1,12 @@
   body {
       background-color: #F3D4CE;
-      margin: 1rem auto;
   }
   
   main {
       background-color: #F3D4CE;
       display: block;
       font-family: 'Public Sans', sans-serif;
+      margin: 0 auto;
   }
   
   #content {
@@ -16,7 +16,7 @@
   
   header {
       background-color: #e987f1;
-      margin: 20px auto;
+      margin: 0 auto;
       padding: 12px;
       font-family: 'Ultra', serif;
       text-align: center;
@@ -25,7 +25,7 @@
   h1 {
       font-family: 'PT Sans', sans-serif;
       color: #faf8f8;
-      font-size: 30px;
+      font-size: 16px;
   }
   
   h2 {
@@ -40,7 +40,7 @@
   
   footer {
       background-color: #e987f1;
-      margin: 2rem auto;
+      margin: 0 auto;
       text-align: center;
       color: #faf8f8;
       padding: 5px;
