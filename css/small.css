@@ -49,6 +49,7 @@
   }
   
   header img {
+      width: 300px;
       border-style: solid;
       border: 3px solid #EDBFB7;
   }
